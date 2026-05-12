@@ -1,0 +1,1 @@
+# School-Mgt-System-Django
